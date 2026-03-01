@@ -13,7 +13,7 @@
     "@types/node": "^22.15.3"
   },
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@prisma/client": "^7.4.2",
     "prisma": "^7.3.0"
